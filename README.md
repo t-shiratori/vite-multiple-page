@@ -37,3 +37,8 @@ vite v3.0.9 building for production...
 ../dist/assets/modulepreload-polyfill.c7c6310f.js   0.69 KiB / gzip: 0.39 KiB
 shiratoritakashi@shiratoinoM1MBP webgl-vite-ts % 
 ```
+
+## Reference
+
+<a href="https://youtu.be/STeKBm67l6M" target="_blank">Setup Multiple Pages with VITE</a>
+
