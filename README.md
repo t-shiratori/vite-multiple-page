@@ -1,11 +1,11 @@
 # vite-multiple-page
 
-## Package install
+## Install Packages
 ```
 npm install
 ```
 
-## Run
+## Run App
 ```
 npm run dev
 ```
@@ -17,7 +17,7 @@ open url `http://127.0.0.1:5173/sample1/index.html`, `http://127.0.0.1:5173/samp
 <img width="400" alt="スクリーンショット 2022-08-28 17 50 41" src="https://user-images.githubusercontent.com/8470739/187068564-033c03eb-4787-4df9-9ae8-7400fcf0477e.png">
 
 
-## Dist Files
+## Output Files
 ```
 npm run build
 ```
